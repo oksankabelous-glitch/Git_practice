@@ -54,6 +54,16 @@ Steps to follow:
 
 [ppl]: https://people.epam.com  "People"
 
+3. <https://people.epam.com>
+<aksana_hubanava@epam.com>
+
+***
+# Images examples
+
+
+
+
+
 
 
 
@@ -76,7 +86,7 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzMyNDA3MDEsMTE1MjAxMzI5MiwtMT
+eyJoaXN0b3J5IjpbLTE3NzM3MDE5OTIsMTE1MjAxMzI5MiwtMT
 Y4MTc2MTQ2OCwxOTkyMzAwMDMwLC0xMDUyNDI1MTMwLDIyNzU2
 NjMxMywxMzM2MTc1NjY2LDEzNTIxNzM3NjYsLTE2MzgyOTA4OT
 UsMjI1Mzk2NzI1LDI2MTQ5OTY4NywyMjUzOTY3MjUsNzMwOTk4
