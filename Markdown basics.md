@@ -60,7 +60,10 @@ Steps to follow:
 ***
 # Images examples
 
---
+__Inline image__:
+![Image (13)](https://kb.epam.com/download/attachments/2859118421/image%20%2813%29.png?api=v2/1180x448)
+
+![Image (13)](https://kb.epam.com/spaces/~Aksana_Hubanava/pages/2859118421/Test+Images+library/1180x448)
 
 
 
@@ -86,9 +89,9 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDU1NTc2OCwtMTc3MzcwMTk5MiwxMT
-UyMDEzMjkyLC0xNjgxNzYxNDY4LDE5OTIzMDAwMzAsLTEwNTI0
-MjUxMzAsMjI3NTY2MzEzLDEzMzYxNzU2NjYsMTM1MjE3Mzc2Ni
-wtMTYzODI5MDg5NSwyMjUzOTY3MjUsMjYxNDk5Njg3LDIyNTM5
-NjcyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbOTc0NjgwOTkzLC0xNzczNzAxOTkyLDExNT
+IwMTMyOTIsLTE2ODE3NjE0NjgsMTk5MjMwMDAzMCwtMTA1MjQy
+NTEzMCwyMjc1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTczNzY2LC
+0xNjM4MjkwODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2
+NzI1LDczMDk5ODExNl19
 -->
