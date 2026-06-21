@@ -1,7 +1,6 @@
+# Table
+The text above the table
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTg3MzcxNjc5NV19
 -->
