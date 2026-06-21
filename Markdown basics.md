@@ -25,6 +25,11 @@ Here is another example of ''bold''
 		# see what happens
 		_nothing_
 
+Unordered lists:
++ can look like this
+* or like this
+- or like this
+
 
 
 
@@ -38,7 +43,7 @@ Here is another example of ''bold''
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI3NTY2MzEzLDEzMzYxNzU2NjYsMTM1Mj
-E3Mzc2NiwtMTYzODI5MDg5NSwyMjUzOTY3MjUsMjYxNDk5Njg3
-LDIyNTM5NjcyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTI0MjUxMzAsMjI3NTY2MzEzLDEzMz
+YxNzU2NjYsMTM1MjE3Mzc2NiwtMTYzODI5MDg5NSwyMjUzOTY3
+MjUsMjYxNDk5Njg3LDIyNTM5NjcyNSw3MzA5OTgxMTZdfQ==
 -->
