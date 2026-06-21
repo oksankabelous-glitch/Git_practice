@@ -77,8 +77,8 @@ __Referenced image__:
 Sometimes you need to add some inline HTML
 
 <dl>
-<dt>Markdown<dt>
-<dd>An awesome plain-text format<dd>
+<dt>Markdown</dt>
+<dd>An awesome plain-text format</dd>
 </dl>
 
 
@@ -101,10 +101,9 @@ Sometimes you need to add some inline HTML
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNjk2OTkxMiwxNjQxMjExNzAxLDk3ND
-Y4MDk5MywtMTc3MzcwMTk5MiwxMTUyMDEzMjkyLC0xNjgxNzYx
-NDY4LDE5OTIzMDAwMzAsLTEwNTI0MjUxMzAsMjI3NTY2MzEzLD
-EzMzYxNzU2NjYsMTM1MjE3Mzc2NiwtMTYzODI5MDg5NSwyMjUz
-OTY3MjUsMjYxNDk5Njg3LDIyNTM5NjcyNSw3MzA5OTgxMTZdfQ
-==
+eyJoaXN0b3J5IjpbNDg2OTUwODYyLDE2NDEyMTE3MDEsOTc0Nj
+gwOTkzLC0xNzczNzAxOTkyLDExNTIwMTMyOTIsLTE2ODE3NjE0
+NjgsMTk5MjMwMDAzMCwtMTA1MjQyNTEzMCwyMjc1NjYzMTMsMT
+MzNjE3NTY2NiwxMzUyMTczNzY2LC0xNjM4MjkwODk1LDIyNTM5
+NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMDk5ODExNl19
 -->
