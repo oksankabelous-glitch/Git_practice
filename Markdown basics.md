@@ -72,7 +72,15 @@ __Referenced image__:
 
 [Test image]: https://kb.epam.com/download/attachments/2859118421/image%20%2813%29.png?api=v2  "Test"
 
+***
+# Inline HTML
+<dl>
 
+<dt>Markdown<dt>
+
+<dd>An awesome plain-text format<dd>
+
+</dl>
 
 
 
@@ -94,9 +102,9 @@ __Referenced image__:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTIxMTcwMSw5NzQ2ODA5OTMsLTE3Nz
-M3MDE5OTIsMTE1MjAxMzI5MiwtMTY4MTc2MTQ2OCwxOTkyMzAw
-MDMwLC0xMDUyNDI1MTMwLDIyNzU2NjMxMywxMzM2MTc1NjY2LD
-EzNTIxNzM3NjYsLTE2MzgyOTA4OTUsMjI1Mzk2NzI1LDI2MTQ5
-OTY4NywyMjUzOTY3MjUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbOTY4NDY5MTk1LDE2NDEyMTE3MDEsOTc0Nj
+gwOTkzLC0xNzczNzAxOTkyLDExNTIwMTMyOTIsLTE2ODE3NjE0
+NjgsMTk5MjMwMDAzMCwtMTA1MjQyNTEzMCwyMjc1NjYzMTMsMT
+MzNjE3NTY2NiwxMzUyMTczNzY2LC0xNjM4MjkwODk1LDIyNTM5
+NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMDk5ODExNl19
 -->
