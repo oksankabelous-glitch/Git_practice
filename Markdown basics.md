@@ -9,10 +9,12 @@ Header 2
 ###### Header 6
 
 Here is one example of _italics_
-Here is another example of 'italics'
+Here is another example of i*talic*s
 
 Here is one example of __bold__
-Here is another example of ''bold''
+Here is another example of **bold**
+And one more example of b**ol**d
+
 ***
 
 > This line is quoted.
