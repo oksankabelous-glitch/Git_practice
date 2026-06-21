@@ -48,6 +48,7 @@ Steps to follow:
 
 # Link examples
 
+You can check users profiles at [People Portal] (https://people.epam.com "People")
 
 
 
@@ -67,8 +68,8 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc2NjEyMzY1LC0xNjgxNzYxNDY4LDE5OT
-IzMDAwMzAsLTEwNTI0MjUxMzAsMjI3NTY2MzEzLDEzMzYxNzU2
-NjYsMTM1MjE3Mzc2NiwtMTYzODI5MDg5NSwyMjUzOTY3MjUsMj
-YxNDk5Njg3LDIyNTM5NjcyNSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbLTYyNjYxNDk3OCwtMTY4MTc2MTQ2OCwxOT
+kyMzAwMDMwLC0xMDUyNDI1MTMwLDIyNzU2NjMxMywxMzM2MTc1
+NjY2LDEzNTIxNzM3NjYsLTE2MzgyOTA4OTUsMjI1Mzk2NzI1LD
+I2MTQ5OTY4NywyMjUzOTY3MjUsNzMwOTk4MTE2XX0=
 -->
