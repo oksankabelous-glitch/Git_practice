@@ -17,6 +17,8 @@ Here is another example of ''bold''
 > This line is quoted.
 > And here is why it i done
 
+`here is a piece of code to run a command`
+
 
 
 
@@ -26,7 +28,7 @@ Here is another example of ''bold''
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNzI4MTY0MSwxMzM2MTc1NjY2LDEzNT
+eyJoaXN0b3J5IjpbMTA3OTUxNzM2OCwxMzM2MTc1NjY2LDEzNT
 IxNzM3NjYsLTE2MzgyOTA4OTUsMjI1Mzk2NzI1LDI2MTQ5OTY4
 NywyMjUzOTY3MjUsNzMwOTk4MTE2XX0=
 -->
