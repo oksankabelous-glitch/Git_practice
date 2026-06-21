@@ -30,6 +30,13 @@ Unordered lists:
 * or like this
 - or like this
 
+Steps to follow:
+1. Step 1
+2. Step 2
+3. Step 3
+
+
+
 
 
 
@@ -45,7 +52,7 @@ Unordered lists:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4OTkzMzc3NCwtMTA1MjQyNTEzMCwyMj
+eyJoaXN0b3J5IjpbLTg0MzU0ODYyMSwtMTA1MjQyNTEzMCwyMj
 c1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTczNzY2LC0xNjM4Mjkw
 ODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMD
 k5ODExNl19
