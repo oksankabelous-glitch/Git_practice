@@ -67,8 +67,9 @@ You can check users profiles at [People Portal] (https://people.epam.com "People
 
 
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjYxNDk3OCwtMTY4MTc2MTQ2OCwxOT
+eyJoaXN0b3J5IjpbMTE1MjAxMzI5MiwtMTY4MTc2MTQ2OCwxOT
 kyMzAwMDMwLC0xMDUyNDI1MTMwLDIyNzU2NjMxMywxMzM2MTc1
 NjY2LDEzNTIxNzM3NjYsLTE2MzgyOTA4OTUsMjI1Mzk2NzI1LD
 I2MTQ5OTY4NywyMjUzOTY3MjUsNzMwOTk4MTE2XX0=
