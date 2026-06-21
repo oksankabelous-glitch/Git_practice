@@ -13,7 +13,7 @@ Here is another example of 'italics'
 
 Here is one example of __bold__
 Here is another example of ''bold''
-
+***
 
 > This line is quoted.
 > And here is why it i done
@@ -25,7 +25,7 @@ Here is another example of ''bold''
 		in a row
 		# see what happens
 		_nothing_
-
+___
 Unordered lists:
 + can look like this
 	* or like this
@@ -37,13 +37,15 @@ Steps to follow:
 3. Step 3
 
 Steps to follow:
-1. . Step 1
+4. . Step 1
 * if it is so
 * if it is not so
-2. Step 2
+5. Step 2
 + if you do it like this
 + if you do it like that
-3. Step 3
+6. Step 3
+---
+
 
 
 
@@ -62,8 +64,8 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzU2OTE2OTAsLTE2ODE3NjE0NjgsMT
-k5MjMwMDAzMCwtMTA1MjQyNTEzMCwyMjc1NjYzMTMsMTMzNjE3
-NTY2NiwxMzUyMTczNzY2LC0xNjM4MjkwODk1LDIyNTM5NjcyNS
-wyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbNDk0MDMxNDU1LC0xNjgxNzYxNDY4LDE5OT
+IzMDAwMzAsLTEwNTI0MjUxMzAsMjI3NTY2MzEzLDEzMzYxNzU2
+NjYsMTM1MjE3Mzc2NiwtMTYzODI5MDg5NSwyMjUzOTY3MjUsMj
+YxNDk5Njg3LDIyNTM5NjcyNSw3MzA5OTgxMTZdfQ==
 -->
