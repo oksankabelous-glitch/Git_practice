@@ -1,4 +1,7 @@
 # Table
+[Image link](https://kb.epam.com/spaces/~Aksana_Hubanava/pages/2859118421/Test+Images+library)
+
+
 The text above the table
 | Col Head 1 | Col Head 2 | Col Head 3 |
 | :--- | :---: | ---: |
@@ -15,6 +18,7 @@ print  "Hello world \n"
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDk1NTgxNjcsLTExNjE3NDAwMDksMT
-I3NzYwOTIxMywtNzk2MzY2ODIzLDE4NzM3MTY3OTVdfQ==
+eyJoaXN0b3J5IjpbMTk2MTI3MDI5OSwtMTg0OTU1ODE2NywtMT
+E2MTc0MDAwOSwxMjc3NjA5MjEzLC03OTYzNjY4MjMsMTg3Mzcx
+Njc5NV19
 -->
