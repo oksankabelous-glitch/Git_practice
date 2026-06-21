@@ -9,10 +9,12 @@ Header 2
 ###### Header 6
 
 Here is one example of _italics_
-Here is another example of 'italics'
+Here is another example of *italics*
+And one more example of i*tali*cs
 
 Here is one example of __bold__
-Here is another example of ''bold''
+Here is another example of **bold**
+And one more example of b**ol**d
 ***
 
 > This line is quoted.
@@ -106,10 +108,10 @@ Sometimes you need to add some inline HTML
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODYwNjQzNDEsMTY0MTIxMTcwMSw5Nz
-Q2ODA5OTMsLTE3NzM3MDE5OTIsMTE1MjAxMzI5MiwtMTY4MTc2
-MTQ2OCwxOTkyMzAwMDMwLC0xMDUyNDI1MTMwLDIyNzU2NjMxMy
-wxMzM2MTc1NjY2LDEzNTIxNzM3NjYsLTE2MzgyOTA4OTUsMjI1
-Mzk2NzI1LDI2MTQ5OTY4NywyMjUzOTY3MjUsNzMwOTk4MTE2XX
-0=
+eyJoaXN0b3J5IjpbMTQ5MTY0NDU1OSwtMTM4NjA2NDM0MSwxNj
+QxMjExNzAxLDk3NDY4MDk5MywtMTc3MzcwMTk5MiwxMTUyMDEz
+MjkyLC0xNjgxNzYxNDY4LDE5OTIzMDAwMzAsLTEwNTI0MjUxMz
+AsMjI3NTY2MzEzLDEzMzYxNzU2NjYsMTM1MjE3Mzc2NiwtMTYz
+ODI5MDg5NSwyMjUzOTY3MjUsMjYxNDk5Njg3LDIyNTM5NjcyNS
+w3MzA5OTgxMTZdfQ==
 -->
