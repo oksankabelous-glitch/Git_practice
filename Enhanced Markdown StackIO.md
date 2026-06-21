@@ -6,7 +6,16 @@ The text above the table
 | R2 C1 | R2 C2 | R2 C3 |
 
 The text below the table
+
+# Fenced code blocks
+```ruby
+
+cmd
+print  "Hello world \n"
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NzYwOTIxMywtNzk2MzY2ODIzLDE4Nz
-M3MTY3OTVdfQ==
+eyJoaXN0b3J5IjpbLTExNjE3NDAwMDksMTI3NzYwOTIxMywtNz
+k2MzY2ODIzLDE4NzM3MTY3OTVdfQ==
 -->
