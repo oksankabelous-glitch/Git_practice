@@ -11,6 +11,8 @@ Header 2
 Here is one example of _italics_
 Here is another example of 'italics'
 
+
+
 Here is one example of __bold__
 Here is another example of ''bold''
 
@@ -20,7 +22,7 @@ Here is another example of ''bold''
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjIxMjcwLC0xNjM4MjkwODk1LDIyNT
-M5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMDk5ODExNl19
-
+eyJoaXN0b3J5IjpbMTM1MjE3Mzc2NiwtMTYzODI5MDg5NSwyMj
+UzOTY3MjUsMjYxNDk5Njg3LDIyNTM5NjcyNSw3MzA5OTgxMTZd
+fQ==
 -->
