@@ -34,7 +34,15 @@ Steps to follow:
 1. Step 1
 2. Step 2
 3. Step 3
-4. 
+
+Steps to follow:
+1. . Step 1
+* if it is so
+* if it is not so
+2. Step 2
++ if you do it like this
++ if you do it like that
+3. Step 3
 
 
 
@@ -53,7 +61,7 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDIzMzY3MDMsMTk5MjMwMDAzMCwtMT
+eyJoaXN0b3J5IjpbLTE2ODE3NjE0NjgsMTk5MjMwMDAzMCwtMT
 A1MjQyNTEzMCwyMjc1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTcz
 NzY2LC0xNjM4MjkwODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMj
 I1Mzk2NzI1LDczMDk5ODExNl19
