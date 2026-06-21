@@ -19,11 +19,16 @@ The text below the table
 ```ruby
 cmd
 print  "Hello world \n"
+
+
+
+Here's a sentence with a footnote. [^FN]
+[^FN]: This is the footnote.
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE4MTI1MjE0LC0xODQ5NTU4MTY3LC0xMT
-YxNzQwMDA5LDEyNzc2MDkyMTMsLTc5NjM2NjgyMywxODczNzE2
-Nzk1XX0=
+eyJoaXN0b3J5IjpbLTE2NzE0OTMxNDAsNDE4MTI1MjE0LC0xOD
+Q5NTU4MTY3LC0xMTYxNzQwMDA5LDEyNzc2MDkyMTMsLTc5NjM2
+NjgyMywxODczNzE2Nzk1XX0=
 -->
