@@ -48,7 +48,11 @@ Steps to follow:
 
 # Link examples
 
-You can check users profiles at [People Portal] (https://people.epam.com "People")
+1. You can check users profiles at [People Portal] (https://people.epam.com "People")
+
+2. You can check users profiles at [People Portal][ppl]
+
+[ppl]: https://people.epam.com  "People"
 
 
 
@@ -72,9 +76,9 @@ You can check users profiles at [People Portal] (https://people.epam.com "People
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY5MzYwMTE4LDExNTIwMTMyOTIsLTE2OD
-E3NjE0NjgsMTk5MjMwMDAzMCwtMTA1MjQyNTEzMCwyMjc1NjYz
-MTMsMTMzNjE3NTY2NiwxMzUyMTczNzY2LC0xNjM4MjkwODk1LD
-IyNTM5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMDk5ODEx
-Nl19
+eyJoaXN0b3J5IjpbLTE2MzMyNDA3MDEsMTE1MjAxMzI5MiwtMT
+Y4MTc2MTQ2OCwxOTkyMzAwMDMwLC0xMDUyNDI1MTMwLDIyNzU2
+NjMxMywxMzM2MTc1NjY2LDEzNTIxNzM3NjYsLTE2MzgyOTA4OT
+UsMjI1Mzk2NzI1LDI2MTQ5OTY4NywyMjUzOTY3MjUsNzMwOTk4
+MTE2XX0=
 -->
