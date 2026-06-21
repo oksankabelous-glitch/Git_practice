@@ -9,13 +9,12 @@ The text below the table
 
 # Fenced code blocks
 ```ruby
-
 cmd
 print  "Hello world \n"
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjE3NDAwMDksMTI3NzYwOTIxMywtNz
-k2MzY2ODIzLDE4NzM3MTY3OTVdfQ==
+eyJoaXN0b3J5IjpbLTE4NDk1NTgxNjcsLTExNjE3NDAwMDksMT
+I3NzYwOTIxMywtNzk2MzY2ODIzLDE4NzM3MTY3OTVdfQ==
 -->
