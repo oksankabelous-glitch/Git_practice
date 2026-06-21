@@ -65,7 +65,12 @@ __Inline image__:
 
 ![Image (13)](https://kb.epam.com/spaces/~Aksana_Hubanava/pages/2859118421/Test+Images+library/1180x448)
 
+__Referenced image__:
 
+![1180x448 test][Test image]
+  
+
+[Test image]: https://kb.epam.com/download/attachments/2859118421/image%20%2813%29.png?api=v2  "Test"
 
 
 
@@ -89,9 +94,9 @@ __Inline image__:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc0NjgwOTkzLC0xNzczNzAxOTkyLDExNT
-IwMTMyOTIsLTE2ODE3NjE0NjgsMTk5MjMwMDAzMCwtMTA1MjQy
-NTEzMCwyMjc1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTczNzY2LC
-0xNjM4MjkwODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2
-NzI1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbMTY0MTIxMTcwMSw5NzQ2ODA5OTMsLTE3Nz
+M3MDE5OTIsMTE1MjAxMzI5MiwtMTY4MTc2MTQ2OCwxOTkyMzAw
+MDMwLC0xMDUyNDI1MTMwLDIyNzU2NjMxMywxMzM2MTc1NjY2LD
+EzNTIxNzM3NjYsLTE2MzgyOTA4OTUsMjI1Mzk2NzI1LDI2MTQ5
+OTY4NywyMjUzOTY3MjUsNzMwOTk4MTE2XX0=
 -->
