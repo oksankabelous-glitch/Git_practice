@@ -32,8 +32,9 @@ Unordered lists:
 
 Steps to follow:
 1. Step 1
-5. Step 2
+2. Step 2
 3. Step 3
+4. 
 
 
 
@@ -52,8 +53,8 @@ Steps to follow:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MjMwMDAzMCwtMTA1MjQyNTEzMCwyMj
-c1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTczNzY2LC0xNjM4Mjkw
-ODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMjI1Mzk2NzI1LDczMD
-k5ODExNl19
+eyJoaXN0b3J5IjpbLTEyNDIzMzY3MDMsMTk5MjMwMDAzMCwtMT
+A1MjQyNTEzMCwyMjc1NjYzMTMsMTMzNjE3NTY2NiwxMzUyMTcz
+NzY2LC0xNjM4MjkwODk1LDIyNTM5NjcyNSwyNjE0OTk2ODcsMj
+I1Mzk2NzI1LDczMDk5ODExNl19
 -->
